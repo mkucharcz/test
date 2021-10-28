@@ -29,8 +29,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/bokonon/Test.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="85">
               <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+=======
+            <state relative-caret-position="51">
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+>>>>>>> 41581b82f165a9d05fa13cc04eda2fbf0cada2f0
             </state>
           </provider>
         </entry>
@@ -221,8 +226,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/bokonon/Test.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="85">
           <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+=======
+        <state relative-caret-position="51">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+>>>>>>> 41581b82f165a9d05fa13cc04eda2fbf0cada2f0
         </state>
       </provider>
     </entry>
