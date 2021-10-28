@@ -5,7 +5,7 @@ public class Test {
     private int c;
     private String aa;
 
-    public void test(){
+    public void test(int b){
 
     }
 }
